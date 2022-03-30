@@ -1,4 +1,4 @@
-# JAva Recipes
+# Java Recipes
 Recipes fot use in java development
 
 
