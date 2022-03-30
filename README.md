@@ -1,2 +1,6 @@
-# java_recipes
-Recipes to use java 
+# JAva Recipes
+Recipes fot use in java development
+
+
+## Index
+[Streams](STREAMS.md)
